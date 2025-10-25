@@ -10,7 +10,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently a PhD student at The University of Manchester 
+- 🔭 I’m currently a researcher at The University of Manchester 
 - 🌱 I’m currently learning theoretical proof and machine learning 
 - 👯 I’m looking to collaborate on explainable artificial intelligence
 
